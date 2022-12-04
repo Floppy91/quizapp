@@ -2,4 +2,4 @@
 
 You get 5 different question with answers.
 
-*used API: https://opentdb.com/
+used API: https://opentdb.com/
